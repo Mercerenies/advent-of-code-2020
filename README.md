@@ -13,7 +13,7 @@ this repository until you're satisfied with your own solution.
 
 ## Day 1 - Forth
 
-* File(s): [day01_01.fth](day01_01.fth) and [day01_02.fth](day01_02.fth)
+* File(s): [day01](day01)
 * Language: [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language))
 * Compiler / Interpreter: [gforth](https://gforth.org/)
 * Notes: (None)
