@@ -34,7 +34,7 @@ max-line-count cells allocate throw Constant lines
     1 +
   repeat 3drop ;
 
-s" inputs/input01.txt" r/o open-file throw to fd
+s" input.txt" r/o open-file throw to fd
 
 main
 
