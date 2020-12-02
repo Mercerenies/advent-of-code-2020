@@ -17,3 +17,10 @@ this repository until you're satisfied with your own solution.
 * Language: [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language))
 * Compiler / Interpreter: [gforth](https://gforth.org/)
 * Notes: (None)
+
+## Day 2 - Perl
+
+* File(s): [day02](day02)
+* Language: [Perl](https://www.perl.org/)
+* Compiler / Interpreter: [Perl 5](https://www.perl.org/get.html)
+* Notes: (None)
