@@ -1,3 +1,4 @@
+;; -*- Scheme -*-
 
 (global data {})
 (each [line (io.lines "input.txt")]
