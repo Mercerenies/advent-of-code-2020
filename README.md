@@ -24,3 +24,10 @@ this repository until you're satisfied with your own solution.
 * Language: [Perl](https://www.perl.org/)
 * Compiler / Interpreter: [Perl 5](https://www.perl.org/get.html)
 * Notes: (None)
+
+## Day 3 - Fennel
+
+* File(s): [day03](day03)
+* Language: [Fennel](https://fennel-lang.org/)
+* Compiler / Interpreter: [The official interpreter](https://fennel-lang.org/setup#downloading-fennel)
+* Notes: (None)
