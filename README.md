@@ -31,3 +31,10 @@ this repository until you're satisfied with your own solution.
 * Language: [Fennel](https://fennel-lang.org/)
 * Compiler / Interpreter: [The official interpreter](https://fennel-lang.org/setup#downloading-fennel)
 * Notes: (None)
+
+## Day 4 - Bash
+
+* File(s): [day04](day04)
+* Language: [Bash](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29)
+* Compiler / Interpreter: [GNU Bash](https://www.gnu.org/software/bash/)
+* Notes: (None)
