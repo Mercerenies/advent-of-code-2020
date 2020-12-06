@@ -45,3 +45,10 @@ this repository until you're satisfied with your own solution.
 * Language: [Tcl](http://wiki.tcl.tk/299)
 * Compiler / Interpreter: [The standard interpreter](http://tcl.tk/)
 * Notes: (None)
+
+## Day 6 - Common Lisp
+
+* File(s): [day06](day06)
+* Language: [Common Lisp](https://en.wikipedia.org/wiki/Common_Lisp)
+* Compiler / Interpreter: [GNU CLISP](https://www.gnu.org/software/clisp/)
+* Notes: (None)
