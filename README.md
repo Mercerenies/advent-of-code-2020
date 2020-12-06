@@ -38,3 +38,10 @@ this repository until you're satisfied with your own solution.
 * Language: [Bash](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29)
 * Compiler / Interpreter: [GNU Bash](https://www.gnu.org/software/bash/)
 * Notes: (None)
+
+## Day 5 - Tcl
+
+* File(s): [day05](day05)
+* Language: [Tcl](http://wiki.tcl.tk/299)
+* Compiler / Interpreter: [The standard interpreter](http://tcl.tk/)
+* Notes: (None)
