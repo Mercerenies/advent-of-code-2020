@@ -52,3 +52,10 @@ this repository until you're satisfied with your own solution.
 * Language: [Common Lisp](https://en.wikipedia.org/wiki/Common_Lisp)
 * Compiler / Interpreter: [GNU CLISP](https://www.gnu.org/software/clisp/)
 * Notes: (None)
+
+## Day 7 - Java
+
+* File(s): [day07](day07)
+* Language: [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29)
+* Compiler / Interpreter: [openjdk 11](https://openjdk.java.net/)
+* Notes: (None)
