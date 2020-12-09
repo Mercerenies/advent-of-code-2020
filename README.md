@@ -66,3 +66,10 @@ this repository until you're satisfied with your own solution.
 * Language: [Factor](http://factorcode.org/)
 * Compiler / Interpreter: [The official interpreter](http://factorcode.org/#downloads)
 * Notes: (None)
+
+## Day 9 - APL
+
+* File(s): [day09](day09)
+* Language: [APL](https://en.wikipedia.org/wiki/APL_(programming_language))
+* Compiler / Interpreter: [GNU APL](https://www.gnu.org/software/apl/)
+* Notes: (None)
