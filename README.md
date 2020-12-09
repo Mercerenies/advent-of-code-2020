@@ -59,3 +59,10 @@ this repository until you're satisfied with your own solution.
 * Language: [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29)
 * Compiler / Interpreter: [openjdk 11](https://openjdk.java.net/)
 * Notes: (None)
+
+## Day 8 - Factor
+
+* File(s): [day08](day08)
+* Language: [Factor](http://factorcode.org/)
+* Compiler / Interpreter: [The official interpreter](http://factorcode.org/#downloads)
+* Notes: (None)
