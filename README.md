@@ -73,3 +73,10 @@ this repository until you're satisfied with your own solution.
 * Language: [APL](https://en.wikipedia.org/wiki/APL_(programming_language))
 * Compiler / Interpreter: [GNU APL](https://www.gnu.org/software/apl/)
 * Notes: (None)
+
+## Day 10 - JustBASIC
+
+* File(s): [day10](day10)
+* Language: [JustBASIC](http://justbasic.com/)
+* Compiler / Interpreter: [The provided IDE](http://justbasic.com/download.html)
+* Notes: (None)
