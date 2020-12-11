@@ -80,3 +80,10 @@ this repository until you're satisfied with your own solution.
 * Language: [JustBASIC](http://justbasic.com/)
 * Compiler / Interpreter: [The provided IDE](http://justbasic.com/download.html)
 * Notes: (None)
+
+## Day 11 - C
+
+* File(s): [day11](day11)
+* Language: [C](https://en.wikipedia.org/wiki/C_%28programming_language%29)
+* Compiler / Interpreter: [GCC 9.3.0](https://gcc.gnu.org/)
+* Notes: (None)
