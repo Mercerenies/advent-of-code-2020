@@ -87,3 +87,10 @@ this repository until you're satisfied with your own solution.
 * Language: [C](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 * Compiler / Interpreter: [GCC 9.3.0](https://gcc.gnu.org/)
 * Notes: (None)
+
+## Day 12 - GDScript
+
+* File(s): [day12](day12)
+* Language: [GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_basics.html)
+* Compiler / Interpreter: [Godot 3.2.1](https://godotengine.org/)
+* Notes: (None)
