@@ -94,3 +94,10 @@ this repository until you're satisfied with your own solution.
 * Language: [GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_basics.html)
 * Compiler / Interpreter: [Godot 3.2.1](https://godotengine.org/)
 * Notes: (None)
+
+## Day 13 - Io
+
+* File(s): [day13](day13)
+* Language: [Io](http://iolanguage.org/)
+* Compiler / Interpreter: [The official implementation](http://iolanguage.org/binaries.html)
+* Notes: (None)
