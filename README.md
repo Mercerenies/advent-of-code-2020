@@ -101,3 +101,10 @@ this repository until you're satisfied with your own solution.
 * Language: [Io](http://iolanguage.org/)
 * Compiler / Interpreter: [The official implementation](http://iolanguage.org/binaries.html)
 * Notes: (None)
+
+## Day 14 - C\#
+
+* File(s): [day14](day14)
+* Language: [C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)
+* Compiler / Interpreter: [Mono](https://www.mono-project.com/)
+* Notes: (None)
