@@ -121,3 +121,11 @@ this repository until you're satisfied with your own solution.
 * File(s): [day16](day16)
 * Language: [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * Compiler / Interpreter: [Node.js](https://nodejs.org/en/download/)
+* Notes: (None)
+
+## Day 17 - OCaml
+
+* File(s): [day17](day17)
+* Language: [OCaml](http://www.ocaml.org/)
+* Compiler / Interpreter: [The official compiler](https://ocaml.org/learn/tutorials/up_and_running.html)
+* Notes: (None)
