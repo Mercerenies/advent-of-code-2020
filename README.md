@@ -115,3 +115,9 @@ this repository until you're satisfied with your own solution.
 * Language: [Elixir](http://elixir-lang.org/)
 * Compiler / Interpreter: [The standard compiler](http://elixir-lang.org/install.html)
 * Notes: (None)
+
+## Day 16 - Javascript
+
+* File(s): [day16](day16)
+* Language: [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* Compiler / Interpreter: [Node.js](https://nodejs.org/en/download/)
