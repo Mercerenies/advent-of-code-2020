@@ -108,3 +108,10 @@ this repository until you're satisfied with your own solution.
 * Language: [C#](https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29)
 * Compiler / Interpreter: [Mono](https://www.mono-project.com/)
 * Notes: (None)
+
+## Day 15 - Elixir
+
+* File(s): [day15](day15)
+* Language: [Elixir](http://elixir-lang.org/)
+* Compiler / Interpreter: [The standard compiler](http://elixir-lang.org/install.html)
+* Notes: (None)
