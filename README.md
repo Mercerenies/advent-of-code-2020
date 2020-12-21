@@ -129,3 +129,10 @@ this repository until you're satisfied with your own solution.
 * Language: [OCaml](http://www.ocaml.org/)
 * Compiler / Interpreter: [The official compiler](https://ocaml.org/learn/tutorials/up_and_running.html)
 * Notes: (None)
+
+## Day 18 - Haskell
+
+* File(s): [day18](day18)
+* Language: [Haskell](https://www.haskell.org/)
+* Compiler / Interpreter: [GHC](https://www.haskell.org/platform/)
+* Notes: (None)
