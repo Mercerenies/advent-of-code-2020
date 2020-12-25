@@ -136,3 +136,10 @@ this repository until you're satisfied with your own solution.
 * Language: [Haskell](https://www.haskell.org/)
 * Compiler / Interpreter: [GHC](https://www.haskell.org/platform/)
 * Notes: (None)
+
+# Day 19 - Coffeescript
+
+* File(s): [day19](day19)
+* Language: [Coffeescript](http://coffeescript.org/)
+* Compiler / Interpreter: [The official interpreter](http://coffeescript.org/#installation)
+* Notes: (None)
