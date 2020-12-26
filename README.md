@@ -150,3 +150,10 @@ this repository until you're satisfied with your own solution.
 * Language: [Python](https://www.python.org/)
 * Compiler / Interpreter: [Python 3.7.7](https://www.python.org/downloads/release/python-377/)
 * Notes: (None)
+
+# Day 21 - Scala
+
+* File(s): [day21](day21)
+* Language: [Scala](https://www.scala-lang.org/)
+* Compiler / Interpreter: [Scala 2.10.6](https://www.scala-lang.org/download/)
+* Notes: (None)
