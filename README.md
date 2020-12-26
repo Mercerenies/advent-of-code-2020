@@ -143,3 +143,10 @@ this repository until you're satisfied with your own solution.
 * Language: [Coffeescript](http://coffeescript.org/)
 * Compiler / Interpreter: [The official interpreter](http://coffeescript.org/#installation)
 * Notes: (None)
+
+# Day 20 - Python
+
+* File(s): [day20](day20)
+* Language: [Python](https://www.python.org/)
+* Compiler / Interpreter: [Python 3.7.7](https://www.python.org/downloads/release/python-377/)
+* Notes: (None)
