@@ -157,3 +157,10 @@ this repository until you're satisfied with your own solution.
 * Language: [Scala](https://www.scala-lang.org/)
 * Compiler / Interpreter: [Scala 2.10.6](https://www.scala-lang.org/download/)
 * Notes: (None)
+
+# Day 22 - Rust
+
+* File(s): [day22](day22)
+* Language: [Rust](https://www.rust-lang.org/)
+* Compiler / Interpreter: [rustc 1.43.1](https://www.rust-lang.org/en-US/install.html)
+* Notes: (None)
