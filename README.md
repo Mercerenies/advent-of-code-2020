@@ -164,3 +164,10 @@ this repository until you're satisfied with your own solution.
 * Language: [Rust](https://www.rust-lang.org/)
 * Compiler / Interpreter: [rustc 1.43.1](https://www.rust-lang.org/en-US/install.html)
 * Notes: (None)
+
+# Day 23 - Lua
+
+* File(s): [day23](day23)
+* Language: [Lua](https://www.lua.org/)
+* Compiler / Interpreter: [Lua 5.3.5](https://www.lua.org/download.html)
+* Notes: (None)
