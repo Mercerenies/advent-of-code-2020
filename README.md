@@ -178,3 +178,10 @@ this repository until you're satisfied with your own solution.
 * Language: [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 * Compiler / Interpreter: [GCC 9.3.0](https://gcc.gnu.org/)
 * Notes: (None)
+
+# Day 25 - Ruby
+
+* File(s): [day25](day25)
+* Language: [Ruby](https://www.ruby-lang.org/en/)
+* Compiler / Interpreter: [Ruby 2.6.5](https://www.ruby-lang.org/en/downloads/)
+* Notes: (None)
