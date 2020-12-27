@@ -171,3 +171,10 @@ this repository until you're satisfied with your own solution.
 * Language: [Lua](https://www.lua.org/)
 * Compiler / Interpreter: [Lua 5.3.5](https://www.lua.org/download.html)
 * Notes: (None)
+
+# Day 24 - C++
+
+* File(s): [day24](day24)
+* Language: [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+* Compiler / Interpreter: [GCC 9.3.0](https://gcc.gnu.org/)
+* Notes: (None)
