@@ -137,49 +137,49 @@ this repository until you're satisfied with your own solution.
 * Compiler / Interpreter: [GHC](https://www.haskell.org/platform/)
 * Notes: (None)
 
-# Day 19 - Coffeescript
+## Day 19 - Coffeescript
 
 * File(s): [day19](day19)
 * Language: [Coffeescript](http://coffeescript.org/)
 * Compiler / Interpreter: [The official interpreter](http://coffeescript.org/#installation)
 * Notes: (None)
 
-# Day 20 - Python
+## Day 20 - Python
 
 * File(s): [day20](day20)
 * Language: [Python](https://www.python.org/)
 * Compiler / Interpreter: [Python 3.7.7](https://www.python.org/downloads/release/python-377/)
 * Notes: (None)
 
-# Day 21 - Scala
+## Day 21 - Scala
 
 * File(s): [day21](day21)
 * Language: [Scala](https://www.scala-lang.org/)
 * Compiler / Interpreter: [Scala 2.10.6](https://www.scala-lang.org/download/)
 * Notes: (None)
 
-# Day 22 - Rust
+## Day 22 - Rust
 
 * File(s): [day22](day22)
 * Language: [Rust](https://www.rust-lang.org/)
 * Compiler / Interpreter: [rustc 1.43.1](https://www.rust-lang.org/en-US/install.html)
 * Notes: (None)
 
-# Day 23 - Lua
+## Day 23 - Lua
 
 * File(s): [day23](day23)
 * Language: [Lua](https://www.lua.org/)
 * Compiler / Interpreter: [Lua 5.3.5](https://www.lua.org/download.html)
 * Notes: (None)
 
-# Day 24 - C++
+## Day 24 - C++
 
 * File(s): [day24](day24)
 * Language: [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 * Compiler / Interpreter: [GCC 9.3.0](https://gcc.gnu.org/)
 * Notes: (None)
 
-# Day 25 - Ruby
+## Day 25 - Ruby
 
 * File(s): [day25](day25)
 * Language: [Ruby](https://www.ruby-lang.org/en/)
